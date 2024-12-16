@@ -1,3 +1,2 @@
-print("hello world")
-x="I added a line of code"
-print(x)
+farentemp=input("what's the temperature right now?")
+print((float(farentemp)-32)*(5/9)43)
